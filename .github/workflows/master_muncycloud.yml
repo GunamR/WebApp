@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'muncycloud'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d3ff271a03c84078baae977557fc612c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_dc12ff17715a4d048e6a85c022fde8f5 }}
